@@ -16,6 +16,7 @@ I learned how:
 - to configure Notifications in AppDelegate 📩
 - to observe the ScenePhase change 📲
 - to make my application more performant with a lite mode option and verify the user's network connection 🌐
+
 It was an interesting activity to make an application using all these skills 😊
 Design by: Stephanie Diep 💪
 [If you ❤️ it, just press "L"](https://dribbble.com/shots/17381553-SwiftUI-Combine-and-Data-some-cool-stuff-Course-based)
